@@ -1,0 +1,3 @@
+../Src/day3_2.c:11:6:LedInit	16	static
+../Src/day3_2.c:25:6:LedOn	16	static
+../Src/day3_2.c:30:6:LedOff	16	static
